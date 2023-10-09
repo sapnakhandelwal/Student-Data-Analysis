@@ -9,7 +9,7 @@ Findings -
 
 Analysis -
 1. I have performed inital Exploratory Analysis to get more information about the dataset
-2. I use head, tail, shape, min, max, median, loc, iloc, slicing functions to practice
+2. I use head, tail, shape, min, max, median, loc, iloc, slicing functions to practice pandas library
 
 ![image](https://github.com/sapnakhandelwal/Student-Data-Analysis/assets/147053399/6a8abf63-70c0-4373-8cff-e65421b5a064)
 
